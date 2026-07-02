@@ -1,0 +1,10 @@
+STUDENT PERFORMANCE REPORT
+========================================
+Total Students: 1000
+Average Math Score: 66.08
+Average Reading Score: 69.16
+Average Writing Score: 68.05
+Highest Percentage: 100.00
+Lowest Percentage: 9.00
+Pass Students: 971
+Fail Students: 29
